@@ -19,6 +19,7 @@ public class BookController {
         System.out.println("springboot in running....master test");
         System.out.println("springboot in running....hot-fix-test");
         System.out.println("springboot in running....push-test");
+        System.out.println("springboot in .....pull-test");
         return "springboot in running....";
     }
 }
